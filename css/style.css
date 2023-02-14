@@ -42,7 +42,7 @@ body {
 }
 
 .div_2 {
-   margin: 22px 0px 0px -19px;
+   margin: 25px 0px 0px -20px;
    width: 15px;
    height: 15px;
    background: green;
@@ -60,9 +60,6 @@ body {
       transform: rotate(360deg);
    }
 }
-
-
-
 
 @keyframes spinner2 {
    0% {
